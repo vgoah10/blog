@@ -1,0 +1,7 @@
+* clone all branch out
+- clone remote master to local -> git clone url://xxx
+- list all remote branch -> git branch -a
+- branch every remote branch
+* nikola command
+- new post -> nikola new_post -e -f orgmode
+- post to github -> nikola github_deploy
