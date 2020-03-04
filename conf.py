@@ -20,7 +20,7 @@ BLOG_AUTHOR = "LiFan"  # (translatable)
 BLOG_TITLE = "不想下雨的夏天"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://vgoah10.f3322.net/blog/"
+SITE_URL = "http://vgoah10.github.io/blog/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://vgoah10.f3322.net/blog/"
