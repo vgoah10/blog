@@ -17,7 +17,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "LiFan"  # (translatable)
-BLOG_TITLE = "My Nikola Site"  # (translatable)
+BLOG_TITLE = "不想下雨的夏天"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "http://vgoah10.f3322.net/blog/"
@@ -153,7 +153,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootblog4"
+#THEME = "bootblog4"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
