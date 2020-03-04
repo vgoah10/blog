@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>不想下雨的夏天</title><link>http://vgoah10.f3322.net/blog/</link><description>made from LiFan by Nikola</description><atom:link href="http://vgoah10.f3322.net/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>zh_cn</language><copyright>Contents © 2020 &lt;a href="mailto:vgoah10@yeah.net"&gt;LiFan&lt;/a&gt; </copyright><lastBuildDate>Wed, 04 Mar 2020 05:36:30 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hello</title><link>http://vgoah10.f3322.net/blog/posts/hello/</link><dc:creator>LiFan</dc:creator><description>&lt;div id="outline-container-sec-1" class="outline-2"&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>不想下雨的夏天</title><link>http://vgoah10.github.io/blog/</link><description>made from LiFan by Nikola</description><atom:link href="http://vgoah10.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>zh_cn</language><copyright>Contents © 2020 &lt;a href="mailto:vgoah10@yeah.net"&gt;LiFan&lt;/a&gt; </copyright><lastBuildDate>Wed, 04 Mar 2020 05:58:44 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hello</title><link>http://vgoah10.github.io/blog/posts/hello/</link><dc:creator>LiFan</dc:creator><description>&lt;div id="outline-container-sec-1" class="outline-2"&gt;
 &lt;h2 id="sec-1"&gt;hello world&lt;/h2&gt;
 &lt;div class="outline-text-2" id="text-1"&gt;
 &lt;p&gt;
@@ -9,4 +9,4 @@
 &lt;/div&gt;
 &lt;div id="outline-container-sec-2" class="outline-2"&gt;
 &lt;h2 id="sec-2"&gt;this is second&lt;/h2&gt;
-&lt;/div&gt;</description><guid>http://vgoah10.f3322.net/blog/posts/hello/</guid><pubDate>Wed, 04 Mar 2020 04:02:58 GMT</pubDate></item></channel></rss>
+&lt;/div&gt;</description><guid>http://vgoah10.github.io/blog/posts/hello/</guid><pubDate>Wed, 04 Mar 2020 04:02:58 GMT</pubDate></item></channel></rss>

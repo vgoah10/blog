@@ -1,4 +1,4 @@
-Sitemap: http://vgoah10.f3322.net/blog/sitemapindex.xml
+Sitemap: http://vgoah10.github.io/blog/sitemapindex.xml
 
 User-Agent: *
-Host: vgoah10.f3322.net
+Host: vgoah10.github.io

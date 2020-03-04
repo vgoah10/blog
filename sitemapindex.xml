@@ -6,11 +6,11 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://vgoah10.f3322.net/blog/rss.xml</loc>
-  <lastmod>2020-03-04T05:36:00Z</lastmod>
+  <loc>http://vgoah10.github.io/blog/rss.xml</loc>
+  <lastmod>2020-03-04T05:58:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://vgoah10.f3322.net/blog/sitemap.xml</loc>
-  <lastmod>2020-03-04T05:36:00Z</lastmod>
+  <loc>http://vgoah10.github.io/blog/sitemap.xml</loc>
+  <lastmod>2020-03-04T05:58:00Z</lastmod>
  </sitemap>
 </sitemapindex>
