@@ -1,0 +1,4 @@
+Sitemap: http://vgoah10.f3322.net/blog/sitemapindex.xml
+
+User-Agent: *
+Host: vgoah10.f3322.net
