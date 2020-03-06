@@ -11,4 +11,6 @@
 #+END_COMMENT
 * 南风
 [[images/photo-1546935983-61e1ec0ba00f.jpg]]
+#+attr_html: :width 100px
+#+attr_latex: :width 100px
 [[http://vgoah10.github.io/blog/images/photo-1546935983-61e1ec0ba00f.jpg]]
