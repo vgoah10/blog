@@ -1363,3 +1363,7 @@ GITHUB_SOURCE_BRANCH = 'sources'
 GITHUB_DEPLOY_BRANCH = 'master'
 
 THEME = "material-theme"
+
+GLOBAL_CONTEXT = {
+    'author_avatar': '/images/avatar.png',
+}
