@@ -9,6 +9,30 @@
 .. type: text
 
 #+END_COMMENT
-@@html:<img src="https://images.unsplash.com/photo-1486634621978-d0652e959475?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9" alt="girl" width="400px"></img>@@
+@@html:<img src="https://images.unsplash.com/photo-1530228361310-99d952d70973?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9" alt="girl" width="400px"></img>@@
 * 南风
 #+attr_html: :width 400px
+知了还在留恋的叫着
+
+夏日最后的热风就要来了
+
+天空中的余晖慢慢散去
+
+美丽的南风终于来了
+
+美丽的南风，尽情的吹
+
+吹干我满身的汗水，吹去我心头的苦闷
+
+美丽的南风，尽情的吹
+
+我的爱人，她在那里
+
+天空下起了暴雨，
+
+知了的声音已被水声淹没
+
+美丽的南风，请你不要停下
+
+因为我的爱人，她就在那里
+
