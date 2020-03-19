@@ -16,7 +16,7 @@
 'copy_assets:output\\assets\\js\\jquery.min.js', (17408, 500)
 '_scan_locs:sitemap', (62976, 487)
 'copy_assets:output\\assets\\css\\rst_base.css', (18432, 436)
-'sitemap:output\\sitemap.xml', (56320, 1263)
+'sitemap:output\\sitemap.xml', (56320, 1261)
 'copy_assets:output\\assets\\css\\bootblog.css', (19968, 445)
 'copy_assets:output\\assets\\css\\baguetteBox.min.css', (20480, 449)
 'copy_assets:output\\assets\\js\\html5shiv-printshiv.min.js', (20992, 461)
